@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/breakingNewsFragment"
+        android:title="Главные новости"
+        android:icon="@drawable/ic_breaking_news" />
+
+    <item android:id="@+id/savedNewsFragment"
+        android:title="Закладки"
+        android:icon="@drawable/ic_bookmark" />
+
+    <item android:id="@+id/searchNewsFragment"
+        android:title="Поиск"
+        android:icon="@drawable/ic_search" />
+</menu>
